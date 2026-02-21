@@ -63,7 +63,6 @@
 ---
 
 ## 📫 Contact Me
-- GitHub: https://github.com/YOUR_USERNAME
 - LinkedIn: https://www.linkedin.com/in/deva-jeshurun-aa493a306
 - LeetCode: https://leetcode.com/u/deva_jeshurun/ 
 
