@@ -33,6 +33,13 @@
 
 ## 📱 Projects
 
+### 🤖 CodeMentor AI — AI Programming Tutor & Mock Interview Platform
+- AI-powered coding tutor for Java, Python, C++, SQL, and DSA
+- OpenRouter + MiniMax integration
+- React + Spring Boot + SQLite
+- Mock interviews, DSA practice, coding playground
+- Student-focused learning + placement preparation platform
+  
 ### ⚡ Parallel Text Handler Processor
 - Processes large text files efficiently using parallel processing
 - Improves performance and reduces processing time
