@@ -60,6 +60,11 @@
 - Supports message sending and receiving functionality
 - Built using modern web technologies
 
+### AstraDesk — Smart Desktop Intelligence Hub
+- Real-time desktop dashboard for news aggregation, developer intelligence, and system monitoring
+- Displays live GitHub repositories, market data, regional news, and hardware performance metrics
+- Built using Neutralinojs, JavaScript, HTML/CSS, and API integration
+
 ---
 
 ## 🎯 Current Goals
